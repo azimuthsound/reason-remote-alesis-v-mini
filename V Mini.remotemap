@@ -1,0 +1,83 @@
+Propellerhead Remote Mapping File
+File Format Version	1.0.0
+Control Surface Manufacturer	Alesis
+Control Surface Model	V Mini
+Map Version	1.0.0
+
+
+Scope	Propellerheads	Master Keyboard			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Keyboard		Keyboard		
+Map	Pitch Bend		Pitch Bend		
+Map	Modulation		Mod Wheel		
+
+
+Scope	Propellerheads	Combinator				
+//	Control Surface Item	Key	Remotable Item	Scale	Mode	
+//Pads						
+Map	Pad 1		Button 1			
+Map	Pad 2		Button 2			
+Map	Pad 3		Button 3			
+Map	Pad 4		Button 4			
+//Knobs	Panning					
+Map	Knob 1		Rotary 1			
+Map	Knob 2		Rotary 2			
+Map	Knob 3		Rotary 3			
+Map	Knob 4		Rotary 4			
+//						
+
+Scope	Propellerheads	Thor Polysonic Synthesizer				
+//	Control Surface Item	Key	Remotable Item	Scale	Mode	
+//Pads						
+//Map	Pad 1					
+//Map	Pad 2					
+//Map	Pad 3					
+//Map	Pad 4					
+//Knobs	Panning					
+Map	Knob 1		Filter 1 Freq			
+Map	Knob 2		Filter 1 Res			
+Map	Knob 3		Filter 1 Env Amount			
+Map	Knob 4		Filter Env Decay			
+//						
+
+Scope	Propellerheads	SubTractor Analog Synthesizer				
+//	Control Surface Item	Key	Remotable Item	Scale	Mode	
+//Pads						
+//Map	Pad 1					
+//Map	Pad 2					
+//Map	Pad 3					
+//Map	Pad 4					
+//Knobs	Panning					
+Map	Knob 1		Filter Freq			
+Map	Knob 2		Filter Res			
+Map	Knob 3		Filter Env Amount			
+Map	Knob 4		Filter Env Decay			
+//						
+
+Scope	AudioRealism	se.audiorealism.reabl2				
+//	Control Surface Item	Key	Remotable Item	Scale	Mode	
+//Pads						
+//Map	Pad 1					
+//Map	Pad 2					
+//Map	Pad 3					
+//Map	Pad 4					
+//Knobs	Panning					
+Map	Knob 1		Cutoff			
+Map	Knob 2		Resonance			
+Map	Knob 3		Envmod			
+Map	Knob 4		Decay			
+//						
+
+Scope	AudioRealism	se.audiorealism.abl3				
+//	Control Surface Item	Key	Remotable Item	Scale	Mode	
+//Pads						
+//Map	Pad 1					
+//Map	Pad 2					
+//Map	Pad 3					
+//Map	Pad 4					
+//Knobs	Panning					
+Map	Knob 1		Cutoff			
+Map	Knob 2		Resonance			
+Map	Knob 3		Envmod			
+Map	Knob 4		Decay			
+//						
