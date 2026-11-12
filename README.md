@@ -19,7 +19,7 @@ The codec and map are my own work, written in 2017.
 | Combinator | Rotary 1 | Rotary 2 | Rotary 3 | Rotary 4 | Buttons 1–4 |
 | Thor Polysonic Synthesizer | Filter 1 Freq | Filter 1 Res | Filter 1 Env Amount | Filter Env Decay | — |
 | SubTractor Analog Synthesizer | Filter Freq | Filter Res | Filter Env Amount | Filter Env Decay | — |
-| AudioRealism `se.audiorealism.reabl2` (Rack Extension) | Cutoff | Resonance | Envmod | Decay | — |
+| AudioRealism ABL2 (`se.audiorealism.reabl2`, Rack Extension) | Cutoff | Resonance | Envmod | Decay | — |
 | AudioRealism ABL3 (`se.audiorealism.abl3`, Rack Extension) | Cutoff | Resonance | Envmod | Decay | — |
 
 The Master Keyboard scope maps the keyboard, pitch bend and mod wheel for whichever device has keyboard focus.
@@ -31,3 +31,7 @@ The Master Keyboard scope maps the keyboard, pitch bend and mod wheel for whiche
 3. Restart Reason, then add the surface manually in Preferences → Control Surfaces (Manufacturer: Alesis, Model: V Mini).
 
 On macOS the Remote folder is `~/Library/Application Support/Propellerhead Software/Remote/`; on Windows it's `%APPDATA%\Propellerhead Software\Remote\`.
+
+## Licence
+
+MIT — see `LICENSE`.
